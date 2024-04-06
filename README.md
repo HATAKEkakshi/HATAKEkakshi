@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Web Developer<br>Learning Cybersecurity
+I am Developer<br>Learning Cybersecurity
 
 
 # 💻 Tech Stack:
