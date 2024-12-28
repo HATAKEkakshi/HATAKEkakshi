@@ -6,8 +6,6 @@
 <p>🚀 Always open to collaborating on innovative projects or exchanging ideas about DevOps, ML, and everything tech!</p>
 
 
-- 🔭 I’m currently working on **Machine Learning**
-
 - 📝 I recently started writing on [https://medium.com/@hemantkumarhk](https://medium.com/@hemantkumarhk)
 
 - 📫 How to reach me **hemant.kumardeveloper@gmail.com**
