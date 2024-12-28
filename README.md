@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hemant Kumar</h1>
-<h3 align="center">A Devops Enigneer and Machine Learning </h3>
+<h3 align="center">I'm a passionate DevOps and Machine Learning Engineer constantly exploring the intersection of scalable infrastructure and intelligent algorithms.
+
+🌱 Currently honing my skills in automating workflows, building robust CI/CD pipelines, and deploying machine learning models.
+💻 Experienced with tools like Docker, Kubernetes, Terraform, and cloud platforms (AWS/GCP).
+🤖 Enthusiastic about designing and implementing AI solutions for real-world challenges.
+🚀 Always open to collaborating on innovative projects or exchanging ideas about DevOps, ML, and everything tech!
+</h3>
 
 - 🔭 I’m currently working on **Machine Learning**
 
