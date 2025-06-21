@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Hemant Kumar</h1>
 
 <p align="center">
-🚀 DevOps | Backend | Cloud | GenAI Engineer — building scalable systems & automating intelligent workflows.
+🚀 DevOps | Backend | Cloud | GenAI | IoT & Cybersecurity Engineer — building secure, scalable systems & automating intelligent workflows.
 </p>
 
 ---
 
 🌱 **Currently working on:**  
-- Automating workflows, robust CI/CD pipelines, and multi-cloud infrastructure using IaC (Terraform, Ansible).  
-- Designing high-performance backend APIs and integrating Generative AI for real-world automation.  
-- Developing scalable systems on AWS, GCP, and Azure.
+- Automating workflows and infrastructure (Terraform, Ansible) across AWS, GCP, Azure.  
+- Building secure backend APIs, integrating Generative AI, and applying best practices from IoT & cybersecurity.  
+- Designing systems that balance performance, security, and scalability.
 
 💻 **Skilled with:**  
-Docker · Kubernetes · Terraform · FastAPI · Python · Microservices · Cloud DevOps · CI/CD · Monitoring · Infra Automation.
+Docker · Kubernetes · Terraform · Python · FastAPI · Microservices · Cloud DevOps · Security · CI/CD.
 
 🤖 **Passionate about:**  
-Delivering production-ready ML/AI systems, automating repetitive tasks, and empowering developers with cutting-edge deployment tools.
+Merging automation and AI with secure, real-world deployments.
 
 📝 **I write on:** [Medium](https://medium.com/@hemantkumarhk)
 
@@ -33,4 +33,4 @@ Delivering production-ready ML/AI systems, automating repetitive tasks, and empo
 
 ---
 
-💡 *Always learning. Always building. Stay tuned for some big things coming soon!*
+💡 *Always building secure, intelligent, automated systems. Stay tuned!*
