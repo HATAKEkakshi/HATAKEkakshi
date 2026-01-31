@@ -1,36 +1,49 @@
-<h1 align="center">Hi 👋, I'm Hemant Kumar</h1>
+# Hi 👋, I'm Hemant Kumar
 
 <p align="center">
-🚀 DevOps | Backend | Cloud | GenAI | IoT & Cybersecurity Engineer — building secure, scalable systems & automating intelligent workflows.
+Backend • DevOps • Cloud • GenAI • Security  
+<br/>Building secure, scalable systems and automation pipelines.
 </p>
 
 ---
 
-🌱 **Currently working on:**  
-- Automating workflows and infrastructure (Terraform, Ansible) across AWS, GCP, Azure.  
-- Building secure backend APIs, integrating Generative AI, and applying best practices from IoT & cybersecurity.  
-- Designing systems that balance performance, security, and scalability.
-
-💻 **Skilled with:**  
-Docker · Kubernetes · Terraform · Python · FastAPI · Microservices · Cloud DevOps · Security · CI/CD.
-
-🤖 **Passionate about:**  
-Merging automation and AI with secure, real-world deployments.
-
-📝 **I write on:** [Medium](https://medium.com/@hemantkumarhk)
-
-📫 **Reach me at:** hemant.kumardeveloper@gmail.com
+### 🚀 What I’m Working On
+- Secure backend systems with FastAPI, Python, and microservices  
+- DevOps automation with Terraform, Docker, Kubernetes, and CI/CD  
+- Cloud architecture across AWS · GCP · Azure  
+- Open-source tooling for encrypted LangChain memory and Python encryption
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/hemant-kumar-461867281/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+### 🛠 Tech Stack
+**Backend:** Python · FastAPI · Microservices  
+**DevOps & Cloud:** Docker · Kubernetes · Terraform · GitHub Actions · AWS/GCP/Azure  
+**Security:** Encryption · Secrets Management · Zero-trust architectures  
+**AI/LLMs:** LangChain · RAG · Vector DBs  
 
 ---
 
-💡 *Always building secure, intelligent, automated systems. Stay tuned!*
+### 🔐 Open-Source Libraries (PyPI)
+| Package | Description | PyPI |
+|--------|-------------|------|
+| **mores-encryption** | Lightweight AES-128 encryption & deterministic hashing for Python | https://pypi.org/project/mores-encryption/ |
+| **langchain-encrypted-redis-memory** | Encrypted Redis ChatMessageHistory for LangChain | https://pypi.org/project/langchain-encrypted-redis-memory/ |
+| **langchain-encrypted-mongo-memory** | Encrypted MongoDB ChatMessageHistory for LangChain | https://pypi.org/project/langchain-encrypted-mongo-memory/ |
+
+---
+
+### 📝 Writing
+I share insights on backend engineering, DevOps, and AI:  
+**Medium:** https://medium.com/@hemantkumarhk
+
+---
+
+### 📫 Contact
+**Email:** hemant.kumardeveloper@gmail.com  
+
+**LinkedIn:**  
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/hemant-kumar-461867281/)
+
+---
+
+<p align="center">⚡ Always building secure, intelligent, and production-ready systems.</p>
