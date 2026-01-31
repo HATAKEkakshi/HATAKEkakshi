@@ -40,9 +40,7 @@ I share insights on backend engineering, DevOps, and AI:
 
 ### 📫 Contact
 **Email:** hemant.kumardeveloper@gmail.com  
-
-**LinkedIn:**  
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/hemant-kumar-461867281/)
+**LinkedIn:** https://www.linkedin.com/in/hemant-kumar-461867281/
 
 ---
 
